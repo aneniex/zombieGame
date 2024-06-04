@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123811766771",
+    "project_id": "zombie-slayer-6a33a",
+    "storage_bucket": "zombie-slayer-6a33a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123811766771:android:6c62fa3ae12faa9b88f286",
+        "android_client_info": {
+          "package_name": "com.raptureplay.zombie.slayer.hack.n.slash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZRWMHZodrq1G2VGGifFgVaaq2ZLazPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
